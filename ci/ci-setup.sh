@@ -1,4 +1,4 @@
-
+source ~/.nvm/nvm.sh
 nvm install 6.9.1
 node --version
 npm --version
